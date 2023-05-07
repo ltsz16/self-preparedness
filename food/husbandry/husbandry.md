@@ -2,12 +2,12 @@
 
 [Back to food section](../food.md)
 
-
+<!-- 
 * [Chickens](chicken.md)
 
 * [Ducks](ducks.md)
 
-* [Fish](fish.md)
+* [Fish](fish.md) -->
 
 * [Gardening](gardening.md)
 
