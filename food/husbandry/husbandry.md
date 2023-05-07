@@ -2,14 +2,15 @@
 
 [Back to food section](../food.md)
 
+
 * [Chickens](chicken.md)
 
-⋅⋅* [Ducks](ducks.md)
+* [Ducks](ducks.md)
 
-⋅⋅* [Fish](fish.md)
+* [Fish](fish.md)
 
-⋅⋅* [Gardening](gardening.md)
+* [Gardening](gardening.md)
 
-⋅⋅* [Quail](quail.md)
+* [Quail](quail.md)
 
-⋅⋅* [Rabbits](rabbits.md)
+* [Rabbits](rabbits.md)
