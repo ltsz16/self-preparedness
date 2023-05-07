@@ -1,4 +1,8 @@
-/\*<!\[CDATA\[\*/ div.rbtoc1683464773000 {padding: 0px;} div.rbtoc1683464773000 ul {list-style: disc;margin-left: 0px;} div.rbtoc1683464773000 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
+[Back to main](../../README.md)
+
+[Back to food section](../food.md)
+
+[Back to husbandry section](husbandry.md)
 
 *   [Legal](#Quail-Legal)
 *   [Health Concerns](#Quail-HealthConcerns)
