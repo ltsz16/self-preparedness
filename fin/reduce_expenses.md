@@ -4,8 +4,6 @@
 
 According to the US Bureau of Labor Statistics report that most people spend their money on housing, followed by transportation (second), food (third) and fourth was insurance, healthcare, entertainment and clothing.
 
-/\*<!\[CDATA\[\*/ div.rbtoc1683464772373 {padding: 0px;} div.rbtoc1683464772373 ul {list-style: disc;margin-left: 0px;} div.rbtoc1683464772373 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
-
 *   [Evaluate Subscriptions](#WaystoReduceSpending-EvaluateSubscriptions)
 *   [Food Shopping](#WaystoReduceSpending-FoodShopping)
     *   [Food Resources](#WaystoReduceSpending-FoodResources)
