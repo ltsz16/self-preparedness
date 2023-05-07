@@ -67,7 +67,7 @@ In addition to his counsel President Kimball explicitly asked the Saints to stud
 
 [The Church Employment System, Elder L. Burke Peterson](https://www.churchofjesuschrist.org/study/general-conference/1976/04/the-church-employment-system?lang=eng)
 
-Talks of specific warning and counsel on how to prepare for the days ahead:
+### Talks of specific warning and counsel on how to prepare for the days ahead
 
 [Prepare Ye, President Benson](https://www.churchofjesuschrist.org/study/general-conference/1973/10/prepare-ye?lang=eng)
 
@@ -75,7 +75,7 @@ Talks of specific warning and counsel on how to prepare for the days ahead:
 
 [Prepare for the Days of Tribulation, President Benson](https://www.churchofjesuschrist.org/study/general-conference/1980/10/prepare-for-the-days-of-tribulation?lang=eng)
 
-General talks on self-reliance
+### General talks on self-reliance
 
 [Becoming Self-Reliant, Spiritually and Physically, President Ballard](https://www.churchofjesuschrist.org/study/ensign/2009/03/becoming-self-reliant-spiritually-and-physically?lang=eng)
 
@@ -85,7 +85,7 @@ General talks on self-reliance
 
 [Consistancy Amid Change, President Tanner](https://www.churchofjesuschrist.org/study/general-conference/1979/10/constancy-amid-change?lang=eng)
 
-General Outline
+### General Outline
 
 [Home Storage, RS Manual](https://www.churchofjesuschrist.org/study/manual/the-latter-day-saint-woman-basic-manual-for-women-part-b/homemaking/lesson-25-home-storage?lang=eng)
 
