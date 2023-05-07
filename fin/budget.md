@@ -1,6 +1,6 @@
 [Back to main](../README.md)
 
-[Back to Finance section](fin.md)
+[Back to Finance section](finance.md)
 
 
 All of your expenses should tie into your vision statement. There are 6 levels of budgeting, of which level 6 is the goal (each level builds on the previous ones). Only 68% of Americans even follow Level 1 budgeting. For budgeting you may use software as simple as Excel (we used Excel for decades). [Mint](https://www.mint.com/) is a great program which is like Quicken except that it’s free.
