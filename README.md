@@ -1,5 +1,3 @@
-# self-preparedness
-
 **Table of Contents**
 =====================
 
