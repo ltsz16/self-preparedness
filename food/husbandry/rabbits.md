@@ -1,227 +1,297 @@
-Goals
+[Back to main](../../README.md)
+
+[Back to food section](../food.md)
+
+[Back to husbandry section](husbandry.md)
+
+*   [Legal](#Rabbits-Legal)
+*   [Health Concerns](#Rabbits-HealthConcerns)
+*   [Breeds](#Rabbits-Breeds)
+*   [Breeding](#Rabbits-Breeding)
+    *   [Mating](#Rabbits-Mating)
+    *   [Nesting box](#Rabbits-Nestingbox)
+*   [Birth](#Rabbits-Birth)
+*   [Babies](#Rabbits-Babies)
+*   [General Living](#Rabbits-GeneralLiving)
+    *   [Rabbit tractor](#Rabbits-Rabbittractor)
+*   [Caring during winter](#Rabbits-Caringduringwinter)
+*   [Caring during summer](#Rabbits-Caringduringsummer)
+*   [Dispaching](#Rabbits-Dispaching)
+*   [Preserving](#Rabbits-Preserving)
+*   [Dishes](#Rabbits-Dishes)
+*   [How many do I need for food?](#Rabbits-HowmanydoIneedforfood?)
+*   [eat per week](#Rabbits-eatperweek)
+*   [Nu. Does](#Rabbits-Nu.Does)
+
+Legal
 =====
 
-*   Savings Account
+You must submit an [application](http://centervilleut.net/file/2019/08/Chicken-and-Rabbits-Application.pdf) to the city for permission to have a few animals in order to feed your family. There are [laws](https://centerville.municipalcodeonline.com/book?type=Zoning#name=12.55.240_Raising_Of_Chickens_And/Or_Rabbits) in place in Centerville regarding the raising of rabbits. You are limited to 6 rabbits with a caviat that excess must be killed or removed by 5 months old. However this is ok as you are allowed to keep excess rabbits until 5 months old and rabbits are usually processed around 2.5-3 months old.
+
+Health Concerns
+===============
+
+Breeds
+======
+
+*   New Zealand
     
-    *   $1,000 in savings
+*   Californian Cross
+    
+
+Breeding
+========
+
+*   Start breeding does at 4 months and males at 6 months; rebreed when babies 2-3 weeks old
+    
+*   Only need one buck per 30 does, but if want more variaiety rule of thumb is 1 buck per 4 does
+    
+*   Retire breeders aroung 1-2 years (depending on how doe is doing)
+    
+    *   Pick new does for breeder whose mom made good nests, had large litters, and took good care of babies
         
-    *   Money to cover all insurance deductibles
+*   Cannot breed two from the same litter (no litter mates)
+    
+*   Don’t breed on the ground (usually in cages up off the ground) in a structure (e.g. barn). Helps protect them
+    
+*   Gestation period 28-32 days
+    
+
+Mating
+------
+
+*   Bring the doe to the buck
+    
+*   Buck needs to mount and fall off at least three times
+    
+    *   Watch until happen at least twice then do your regular chores and can come back circa an hour to separate them
         
-    *   3-9 months of spending in savings
+
+Nesting box
+-----------
+
+*   Metal is great material with pegboard bottom, but not a screen/hardware clothOne with a larger top stand is good as it gives mom a place to hop up and stand
+    
+*   Have some hay (cheap) for nesting material and put some in the box and some outside; rabbit will redo their way.
+    
+*   Some moms make bad nests (will eat material). Try adding more. If keep eating watch and when she starts pulling her hair quickly stock up the nesting box with material
+    
+*   Clean
+    
+    *   Once within first 3 weeks
         
-*   No debt
+        *   Keep mom’s fur (save). Reconstruct nest and re-add fur
+            
+*   Setup on day 25 of gestation.
     
-    *   including mortgage
+    *   Sign she will start cramming things in her mouth to make a nest
         
-*   Savings for the future
-    
-    *   15% gross income into qualified retirement account
+    *   Put nesting box into her cage
         
-    *   Charitable giving account
+    *   Keep there until day 35, if no birth by this day then rebreed
         
-    *   Posterity & living legacy
+*   [ref](https://www.youtube.com/watch?v=8HmgRQ2_yFM&list=PLW0m-RUVRO1rCSSLvUvyG45JC4vB6IXeH&index=3)
+    
+
+Birth
+=====
+
+*   Babies called kits
+    
+*   Just before giving birth a rabbit will pull fur from body and add to nest (usually a few hours before giving birth)
+    
+*   Often will give birth during the night
+    
+*   If big litter (e.g. over 8) and another also gave birth with 1-2 days and it smaller can take some (1-2) from larger and add to smaller
+    
+*   Checkup
+    
+    *   If new doe/first birth then usually wait 24 hours before doing anything to the babies, but check
+        
+        *   Bring something they like to eat to preoccupy them while checking babies and remove nesting box completely
+            
+            *   Count number
+                
+            *   Ensure healthy (often a few will die)
+                
+*   Birth
+    
+    *   If babies born on wire instead of nesting box try to put them into box (with those still alive)
+        
+    *   Nest should be in back of nesting box (a good mom will make it here)
+        
+        *   Not as big of a deal in summer but want to move to back. Will also help teach mom
+            
+    *   *   [ref](https://www.youtube.com/watch?v=HNhLlWR7mBM&list=PLW0m-RUVRO1rCSSLvUvyG45JC4vB6IXeH&index=4)
+            
+
+Babies
+======
+
+*   Want babies to be tame
+    
+    *   Handle babies every day or every other day
+        
+*   Mom will usually nurse entire litter only twice a day so leave alone if you see mom in nesting box
+    
+*   If you find baby outside nesting box put it back in
+    
+    *   Check in the morning and before night
+        
+*   As move to more solid foods babies can get dyareea or sticky butt. The latter can cause issues
+    
+    *   Check for it daily
+        
+*   Wheen around 5 weeks and put in rabbit tractor
+    
+*   Keep nesting box in with mom until 3 weeks old
+    
+    *   Then pull out nesting box
         
 
-Financial steps (in order)
-==========================
+General Living
+==============
 
-“President Ashton’s process” refers to a process recommeded by the then president of the quorum of twelve apostles and since recommended by the Church in its [financial literacy programs.](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/language-materials/33293_eng.pdf) It is a simple approach to eliminating debt by using funds freed up when one debt is retired to pay down remaining debt.
+Rabbit tractor
+--------------
 
-**WARNING:** Certain individuals teach a fixed budgeting amount, such as 50%/20%/30% taught by Dave Ramsey, and sometimes espoused by members. These are not taught, nor endorsed, by the Church in its literature. Most of these might work if you have a small family of 4 or less individuals, with children in close ages. They do not take into account large families are large spreads in children’s ages. They also create errors in forcing families to conform to percentages which may not reflect one’s financial situation. The best approach is to consider the council of others who are successful and who have a similar family situation as you but to then prayfully consider as head(s) of households what is the best financial plan and budget for your goals and situation.
-
-**NOTE:** There is a special excel workbook which I have created which you may use. It helps with budgeting, debt reduction plans and will auto. calculate most of your ratios below as well as other things. You may download it and use it (your information remains separate and private). There is a video on how to use it.
-
-**Steps**
-
-1.  Identify your vision statement(s) for all spending (to identify your stewardship)
-    
-2.  Identify what constitutes failure (for regular accountabilty)
-    
-3.  Assess your current financial standing
-    
-    1.  Evaluate tithing paid, are you current?
-        
-    2.  Create a _balance sheet_ (this should be updated at least once a quarter; your financial situation improves if your net worth increases each time it is prepared)
-        
-    3.  Create a _cash flow statement_ (this will be helpful for creating your budget later on)
-        
-    4.  Calculate your:
-        
-        1.  _Debt ratio_ (liabilities/net worth; a low ratio is best)
-            
-        2.  _Current ratio_ (liquid assets/current assets; a high ratio shows cash available to pay bills)
-            
-        3.  _Liquidity ratio_ (liquid assets/monthly expenses; shows number months you can pay living expenses in an emergency, high ratio is desirable)
-            
-        4.  _Debt-payments ratio_ (monthly credit payments/take-home pay; want a ratio less than 20%)
-            
-        5.  _Savings ratio_ (monthly savings/gross income; should be at least 10%)
-            
-    5.  Evaluate your current level(s) of protection
-        
-        1.  Health insurance coverage
-            
-        2.  Home/renters insurance
-            
-        3.  Trasportation (e.g. auto, motorcycle, boat) insurance
-            
-        4.  Life insurance
-            
-        5.  Disability/dismemberment insurance
-            
-    6.  Calculate curernt level(s) of savings
-        
-        1.  Retirement
-            
-        2.  Children’s weddings
-            
-        3.  Children’s education
-            
-        4.  Children’s misssions
-            
-        5.  Personal missions
-            
-        6.  Future/replacement vehicle
-            
-        7.  Regular savings
-            
-        8.  Savings in case lose job
-            
-        9.  Home repair
-            
-        10.  Cover annual out-of-pocket health/HSA
-            
-        11.  Cover annual out-of-pocket home
-            
-        12.  Cover annual out-of-pocket transportation
-            
-        13.  All other savings
-            
-4.  Pay tithes and offerings
-    
-5.  Create a “Level 6” [Budget Process](Budget-Process_33243.html)
-    
-    1.  NOTE: Studies show that you should track your budget daily as this is the most effective
-        
-6.  Create financial goals
-    
-7.  Save $1,000 in a savings account (preferably a high-interest money market account. Recommend the Capital One 360 Performance Savings account)
-    
-8.  Aquire health insurance or some other access to medical care
-    
-9.  Use President Ashton’s process of eliminating debt to eliminate all consumer debt with interest rates greater than, or equal to, 12% (aka expensive loans)
-    
-    1.  Calculator: [View how quickly you can plan to pay off your debts](https://www.calcxml.com/calculators/restructuring-debt?skn=38&r=2)
-        
-    2.  Calculator: [How long to pay off my credit card](https://www.calcxml.com/calculators/how-long-will-it-take-to-pay-off-my-credit-card?skn=38&r=2)
-        
-10.  Increase savings account to equal 1 month of required expenses
-    
-    1.  Calculator: [How much do I need for emergency savings](https://www.calcxml.com/do/bud03?skn=38&r=2)
-        
-11.  Increase contributions into a qualified retirement account to be 3% of your gross income (including any matching)
-    
-12.  Save in a savings account money to cover all of your annual deductibles should you have to pay them all in a given year
-    
-    1.  Home/renters insurance deductible
-        
-    2.  Car deductibles
-        
-    3.  Health out of pocket maximum
-        
-13.  Use President' Ashton’s process of eliminating debt to eliminate all consumer debt
-    
-14.  Increase savings account to equal 3 months of required expenses
-    
-15.  Save in a savings account 1% of the value of your home per year. This is used to cover home repairs and maintenance (e.g. new AC, roof, etc)
-    
-16.  Use Presiden’t Ashton’s process to eliminate all transporation debts (i.e. auto, boat, etc)
-    
-17.  Use Presiden’t Ashton’s process to eliminate all student loan debt
-    
-18.  Increase contributions into a qualified retirement account to be 15% of your gross income (including any matching)
-    
-19.  Save for your children’s future
-    
-    1.  Weddings
-        
-    2.  Education
-        
-20.  Pay off your mortgage
-    
-    1.  Calculator: [When will I pay off my mortgage](https://www.calcxml.com/calculators/pay-off-loan?skn=38&r=2)
-        
-21.  Increase contributions to your qualified retirement account
+*   Can [build](https://www.youtube.com/watch?v=on6i6VEuj8o&list=PLW0m-RUVRO1rCSSLvUvyG45JC4vB6IXeH&index=11)
     
 
-Increasing Income
-=================
+Sexing
 
-Decreasing Expenses
-===================
+Caring during winter
+====================
 
-[https://www.churchofjesuschrist.org/study/ensign/2009/06/stretching-your-dollars?lang=eng](https://www.churchofjesuschrist.org/study/ensign/2009/06/stretching-your-dollars?lang=eng)
+Caring during summer
+====================
 
-President Ashton Process
-========================
+Dispaching
+==========
 
-“A debt-elimination calendar can help you reduce or eliminate debt. Mark off several columns on a piece of paper. In the first column on the left, write the names of the months, beginning with the upcoming month. At the top of the next column, write the name of the creditor you want to pay off first. It may be the debt with the highest interest rate, or the earliest pay-off date. List the monthly payment for that creditor until the loan is repaid as shown in the illustration above. At the top of the next column, record the name of the second creditor you want to repay, and list payments due each month. After you have repaid the first creditor, add the amount of that monthly payment to your payment to the second creditor. (In the example above, notice that the family finished making monthly payments on their credit card. They then added $110 to the $70 furniture payment, creating a new monthly payment of $180.) Continue the process until all loans are repaid.”
+*   11-12 weeks (look for 5# live weight which will be ~ 2.5# processed weight)
+    
 
-Resources
-=========
+Preserving
+==========
 
-[BYU Personal Finance Course (free)](https://cereg.byu.edu/courses/pe/999054070004/public/start.htm)
+Dishes
+======
 
-[BYU Student Finance Course (free)](http://is.byu.edu/courses/pe/999054075002/public/start.htm)
+[others](https://www.youtube.com/watch?v=LIOd2VNcwf8&list=PLW0m-RUVRO1pOen5AlQ5HJfnrJab9_Xqv)
 
-[One For the Money](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/language-materials/33293_eng.pdf)
+How many do I need for food?
+============================
 
-[Church’s Financial Self Reliance Course](https://www.churchofjesuschrist.org/self-reliance/course-materials/personal-finances)
+If primary portion of your meal isn’t meat a rabbit can feed a family of four in a meal (@ 2.5#).
 
-[Guide to Family Finances, President Ashton](https://www.churchofjesuschrist.org/study/liahona/2000/04/guide-to-family-finance?lang=eng)
+Roughly 1 doe=7 litters/year with 6 babies per litter (this is breeding every 6 weeks avg).
 
-Audio Resources
----------------
+| 
+eat per week
+============
 
-[“Family Finances﻿—Part 1,” _Gospel Solutions for Families,_ episode 77](http://www.churchofjesuschrist.org/inspiration/latter-day-saints-channel/listen/series/gospel-solutions-for-families-audio/family-finances-part-1)
+ | 
 
-[“Family Finances﻿—Part 2,” _Gospel Solutions for Families,_ episode 78](http://www.churchofjesuschrist.org/inspiration/latter-day-saints-channel/listen/series/gospel-solutions-for-families-audio/family-finances-part-2-episode-78)
+**Need per year**
 
-[“Financial Tips for Young Adults,” _Latter-day Saints Channel Daily,_ episode 734](http://www.churchofjesuschrist.org/inspiration/latter-day-saints-channel/listen/series/mormon-channel-daily-audio/financial-tips-for-young-adults)
+ | 
 
-[“Financial Tips for Newlyweds﻿—April 22, 2015,” _Latter-day Saints Channel Daily,_ episode 738](http://www.churchofjesuschrist.org/inspiration/latter-day-saints-channel/listen/series/mormon-channel-daily-audio/financial-tips-for-newlyweds-april-22-2015)
+Nu. Does
+========
 
-[“Interview with Family Finance Guru, Jordan Page,” _Latter-day Saints Channel Daily,_ episode 863](http://www.churchofjesuschrist.org/inspiration/latter-day-saints-channel/listen/series/mormon-channel-daily-audio/interview-with-jordan-page-october-14-2015)
+ | 
 
-Financial Calculators
----------------------
+**Total babies per year**
 
-[How soon could I pay off all my debts?](http://www.calcxml.com/do/det07?skn=38&r=2)
+ |
+| --- | --- | --- | --- |
+| 
 
-[How much should I save for emergencies?](http://www.calcxml.com/do/bud03?skn=38&r=2)
+1
 
-[Where is my money going?](http://www.calcxml.com/do/bud09?skn=38&r=2)
+ | 
 
-[Would spending a little less and saving a little more make a difference?](http://www.calcxml.com/do/bud11?skn=38&r=2)
+52
 
-[How long will it take to pay off my credit card?](http://www.calcxml.com/do/det01?skn=38&r=2)
+ | 
 
-[When will my loan be paid off?](http://www.calcxml.com/do/det02?skn=38&r=2)
+2
 
-[What if I pay a little extra each month on my loan?](http://www.calcxml.com/do/det09?skn=38&r=2)
+ | 
 
-[What would my payment be if I borrowed?](http://www.calcxml.com/do/det03?skn=38&r=2)
+84
 
-[Should I refinance my home mortgage?](http://www.calcxml.com/do/hom02?skn=38&r=2)
+ |
+| 
 
-[What would be my monthly payment on a new home?](http://www.calcxml.com/do/hom03?skn=38&r=2)
+2
 
-[How much should I save for retirement?](http://www.calcxml.com/do/ret02?skn=38&r=2)
+ | 
 
-[Are my current retirement savings adequate?](http://www.calcxml.com/do/ret03?skn=38&r=2)
+104
 
-[How much retirement income will I have if I save regularly?](http://www.calcxml.com/do/sav02?skn=38&r=2)
+ | 
 
-[How much should I save to reach my goal?](http://www.calcxml.com/do/sav06?skn=38&r=2)
+3
 
-[How much could I have if I saved regularly?](http://www.calcxml.com/do/sav07?skn=38&r=2)
+ | 
+
+126
+
+ |
+| 
+
+3
+
+ | 
+
+156
+
+ | 
+
+4
+
+ | 
+
+168
+
+ |
+| 
+
+4
+
+ | 
+
+208
+
+ | 
+
+5
+
+ | 
+
+210
+
+ |
+| 
+
+5
+
+ | 
+
+260
+
+ | 
+
+7
+
+ | 
+
+294
+
+ |
+
+[Ref](https://www.youtube.com/watch?v=5u9DLbRiO08&list=WL&index=476&t=0s)
+
+References: [Living Traditions Homestead](https://www.youtube.com/playlist?list=PLW0m-RUVRO1rCSSLvUvyG45JC4vB6IXeH)
