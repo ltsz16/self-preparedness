@@ -1,5 +1,9 @@
 (Back to main)[../README.md]
 
-Information for (food storage)[foodstorage.md]
+# Storage
+## Food Storage
+1. Information for (food storage)[foodstorage.md]
+2. Information for (water storage)[waterstorage.md]
 
-Information for procuring food (gardening, husbandry)[husbandry/husbandry.md]
+# Producing food
+Information for procuring food (gardening, husbandry, etc)[husbandry/husbandry.md]
