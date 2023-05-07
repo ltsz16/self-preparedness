@@ -100,9 +100,9 @@ Phase II Work towards Level I
         
     *   Achieve [Level I water storage](food/waterstorage.md#Level-I)
         
-    *   Achieve [Level I personal first-aid](emergencies/firstaid.md#Level-I) kits per individual
+    *   Achieve [Level I personal first-aid](emergencies/firstaid.md) kits per individual
         
-    *   Achieve [Level I home first-aid]emergencies/firstaid.md#Level-I.1) kit
+    *   Achieve [Level I home first-aid](emergencies/firstaid.md) kit
         
     *   Achieve Level I clothing
         
@@ -168,15 +168,15 @@ Phase III
         
 *   Achieve Level II prepardness
     
-    *   Achieve [Level II annual food storage](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/196609/Food+Storage#Level-II) (adding fruit, vegtables & protein)
+    *   Achieve [Level II annual food storage](food/foodstorage.md#Level-II) (adding fruit, vegtables & protein)
         
-    *   Achieve [Level II water storage](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/196760/Water+Storage#Level-II) (3 week supply)
+    *   Achieve [Level II water storage](food/waterstorage.md#Level-II) (3 week supply)
         
-    *   Achieve [Level II personal first-aid](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/33359/First-Aid+Kit#Level-II) kits per individual
+    *   Achieve [Level II personal first-aid](emergencies/firstaid.md#Level-II) kits per individual
         
-    *   Achieve [Level II home first-aid](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/33359/First-Aid+Kit#Level-II.1) kit
+    *   Achieve [Level II home first-aid](emergencies/firstaid.md#Level-II.1) kit
         
-    *   Achieve a [Vehicle first-aid](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/33359/First-Aid+Kit#Vehicle-Kit) kit
+    *   Achieve a [Vehicle first-aid]emergencies/firstaid.md#Vehicle-Kit) kit
         
     *   Achieve Level II clothing
         
