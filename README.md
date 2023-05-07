@@ -39,7 +39,7 @@ Goal
         
     *   Fuel
         
-*   Have a graden
+*   Have a garden
     
 
 List taken from President Benson’s talk “[Prepare Ye](https://www.churchofjesuschrist.org/study/general-conference/1973/10/prepare-ye?lang=eng)”
