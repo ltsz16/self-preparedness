@@ -2,6 +2,7 @@
 
 [Back to food section](../food.md)
 
+[Back to husbandry section](husbandry.md)
 
 Legal
 =====
