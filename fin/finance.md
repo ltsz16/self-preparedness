@@ -90,6 +90,7 @@ Financial steps (in order)
 5.  Create a “Level 6” [Budget Process](Budget-Process_33243.html)
     
     1.  NOTE: Studies show that you should track your budget daily as this is the most effective
+    2.  Use the [Reduce Expenses](reduce_expenses.md) sheet for tips on cutting expenses
         
 6.  Create financial goals
     
