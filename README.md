@@ -170,9 +170,9 @@ Phase II Work towards Level I
         
 *   If home security system
     
-    *   Have ample coverage on all egresses (windows & doors)
+    *   Have ample coverage on all ingresses (windows & doors)
         
-*   System is working
+    *   System is working
     
 
 Phase III
