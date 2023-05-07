@@ -1,6 +1,23 @@
 # self-preparedness
 
-* * *
+**Table of Contents**
+=====================
+
+*   [Vision](#EmergencyPreparedness-Vision)
+*   [Goal](#EmergencyPreparedness-Goal)
+*   [Counsel](#EmergencyPreparedness-Counsel)
+*   [Roadmap](#EmergencyPreparedness-Roadmap)
+    *   [Phase 1 Evaluate your situation](#EmergencyPreparedness-Phase1Evaluateyoursituation)
+    *   [Phase II Work towards Level I](#EmergencyPreparedness-PhaseIIWorktowardsLevelI)
+    *   [Phase III](#EmergencyPreparedness-PhaseIII)
+    *   [Phase IV](#EmergencyPreparedness-PhaseIV)
+    *   [Phase V](#EmergencyPreparedness-PhaseV)
+*   [Levels](#EmergencyPreparedness-Levels)
+*   [Resources](#EmergencyPreparedness-Resources)
+*   [Quick navigation](#EmergencyPreparedness-Quicknavigation)
+*   [Table of Contents](#EmergencyPreparedness-TableofContents)
+
+
 
 Vision
 ======
@@ -75,6 +92,11 @@ General talks on self-reliance
 General Outline
 
 [Home Storage, RS Manual](https://www.churchofjesuschrist.org/study/manual/the-latter-day-saint-woman-basic-manual-for-women-part-b/homemaking/lesson-25-home-storage?lang=eng)
+
+**Levels**
+==========
+
+In the various sections you will find things broken out into levels. These are designed mostly for conveinance. Level I items are the bare minimum that you should have and are considered the goal. After having secured a Level I then the other levels are there to help one to be able to expand an area to be ore prepared or to live more comfrotably. They should be fulfilled in order but do not need to be fulfilled. Level II are considered more important, or of more frequent use, than level III.
 
 **Roadmap**
 ===========
@@ -300,11 +322,6 @@ Phase V
     *   If needed replace exterior windows so that they all meet recommended [U-levels](http://insulationinstitute.org/wp-content/uploads/2015/12/UT-2009.pdf)
         
 
-**Levels**
-==========
-
-In the various sections you will find things broken out into levels. These are designed mostly for conveinance. Level I items are the bare minimum that you should have and are considered the goal. After having secured a Level I then the other levels are there to help one to be able to expand an area to be ore prepared or to live more comfrotably. They should be fulfilled in order but do not need to be fulfilled. Level II are considered more important, or of more frequent use, than level III.
-
 Resources
 =========
 
@@ -312,39 +329,6 @@ Resources
 
 **Quick navigation**
 ====================
-
-When you create new pages in this space, they'll appear here automatically.
-
-*   [Food Storage](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/196609/Food+Storage)
-*   [Financial Plan](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/33151/Financial+Plan)
-*   [Water Storage](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/196760/Water+Storage)
-*   [Non-food Storage Supply](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/262341/Non-food+Storage+Supply)
-*   [Evaluation Form](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/9502727/Evaluation+Form)
-*   [Husbandry](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/232718337/Husbandry)
-*   [Auto Maintenance](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/1547698177/Auto+Maintenance)
-
-**Table of Contents**
-=====================
-
-/\*<!\[CDATA\[\*/ div.rbtoc1683464768519 {padding: 0px;} div.rbtoc1683464768519 ul {list-style: disc;margin-left: 0px;} div.rbtoc1683464768519 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
-
-*   [Vision](#EmergencyPreparedness-Vision)
-*   [Goal](#EmergencyPreparedness-Goal)
-*   [Counsel](#EmergencyPreparedness-Counsel)
-*   [Roadmap](#EmergencyPreparedness-Roadmap)
-    *   [Phase 1 Evaluate your situation](#EmergencyPreparedness-Phase1Evaluateyoursituation)
-    *   [Phase II Work towards Level I](#EmergencyPreparedness-PhaseIIWorktowardsLevelI)
-    *   [Phase III](#EmergencyPreparedness-PhaseIII)
-    *   [Phase IV](#EmergencyPreparedness-PhaseIV)
-    *   [Phase V](#EmergencyPreparedness-PhaseV)
-*   [Levels](#EmergencyPreparedness-Levels)
-*   [Resources](#EmergencyPreparedness-Resources)
-*   [Quick navigation](#EmergencyPreparedness-Quicknavigation)
-*   [Table of Contents](#EmergencyPreparedness-TableofContents)
-
-**Tasks**
-
-<table data-layout="full-width" class="confluenceTable"><colgroup><col style="width: 566.0px;"></colgroup><tbody><tr><td class="confluenceTd"><ul class="inline-task-list" data-inline-tasks-content-id="32955"><li data-inline-task-id="59"><span class="placeholder-inline-tasks">Read warning and counsel (articles on this page)</span></li><li data-inline-task-id="56"><span class="placeholder-inline-tasks">Complete Personal<a href="https://toddfamily.atlassian.net/wiki/download/attachments/32955/Home%20preparedness%20evaluation%20form.pdf?api=v2" rel="nofollow"> Assessment Form</a></span></li><li data-inline-task-id="14"><span class="placeholder-inline-tasks">Make a plan (as a minimum reach Level 1 in each area)</span></li><li data-inline-task-id="58"><span class="placeholder-inline-tasks">Execute on plan</span></li><li data-inline-task-id="15"><span class="placeholder-inline-tasks">Complete phases II - V on this page</span></li></ul></td></tr></tbody></table>
 
 ## Food
 [Food: ](food/food.md)
@@ -357,3 +341,8 @@ Information on the steps for financial self-reliance such as getting out of debt
 ## Emergency Prepardeness
 [Emergency Prepardeness: ](emergencies/prep.md)
 Information about 72-hour kits, storage of non-food items, first aid information
+
+
+**Tasks**
+
+<table data-layout="full-width" class="confluenceTable"><colgroup><col style="width: 566.0px;"></colgroup><tbody><tr><td class="confluenceTd"><ul class="inline-task-list" data-inline-tasks-content-id="32955"><li data-inline-task-id="59"><span class="placeholder-inline-tasks">Read warning and counsel (articles on this page)</span></li><li data-inline-task-id="56"><span class="placeholder-inline-tasks">Complete Personal<a href="https://toddfamily.atlassian.net/wiki/download/attachments/32955/Home%20preparedness%20evaluation%20form.pdf?api=v2" rel="nofollow"> Assessment Form</a></span></li><li data-inline-task-id="14"><span class="placeholder-inline-tasks">Make a plan (as a minimum reach Level 1 in each area)</span></li><li data-inline-task-id="58"><span class="placeholder-inline-tasks">Execute on plan</span></li><li data-inline-task-id="15"><span class="placeholder-inline-tasks">Complete phases II - V on this page</span></li></ul></td></tr></tbody></table>
