@@ -1,3 +1,5 @@
+[Back](food.md)
+
 Water is needed for three primary things:
 
 1.  Human consumption
@@ -15,7 +17,6 @@ Water is needed for three primary things:
 
 It should be noted that when considering water storage that water used for cooking counts towards human consupmption (as long as the water is consumed and not waster through evaporation or being thrown away). Also, it is assumed that water supplies can be suppliminted by some, though perhaps extrememly limited, rain fall.
 
-/\*<!\[CDATA\[\*/ div.rbtoc1683464772467 {padding: 0px;} div.rbtoc1683464772467 ul {list-style: disc;margin-left: 0px;} div.rbtoc1683464772467 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
 *   [Water Supply](#WaterStorage-WaterSupply)
     *   [Level I](#WaterStorage-LevelI)
