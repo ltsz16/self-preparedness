@@ -82,7 +82,7 @@ General Outline
 Phase 1 Evaluate your situation
 -------------------------------
 
-*   Fill out the [evaluation form](https://toddfamily.atlassian.net/wiki/download/attachments/32955/Home%20preparedness%20evaluation%20form.pdf?api=v2)
+*   Fill out the [evaluation form](eval.pdf)
     
 
 Phase II Work towards Level I
@@ -96,13 +96,13 @@ Phase II Work towards Level I
         
 *   Achieve Level I prepardness
     
-    *   Achieve [Level I annual food storage](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/196609/Food+Storage#Level-1) (1 year base)
+    *   Achieve [Level I annual food storage](food/foodstorage.md#Level-1) (1 year base)
         
-    *   Achieve [Level I water storage](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/196760/Water+Storage#Level-I)
+    *   Achieve [Level I water storage](food/waterstorage.md#Level-I)
         
-    *   Achieve [Level I personal first-aid](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/33359/First-Aid+Kit#Level-I) kits per individual
+    *   Achieve [Level I personal first-aid](emergencies/firstaid.md#Level-I) kits per individual
         
-    *   Achieve [Level I home first-aid](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/33359/First-Aid+Kit#Level-I.1) kit
+    *   Achieve [Level I home first-aid]emergencies/firstaid.md#Level-I.1) kit
         
     *   Achieve Level I clothing
         
