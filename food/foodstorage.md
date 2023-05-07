@@ -1,5 +1,3 @@
-/\*<!\[CDATA\[\*/ div.rbtoc1683464772265 {padding: 0px;} div.rbtoc1683464772265 ul {list-style: disc;margin-left: 0px;} div.rbtoc1683464772265 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
-
 [Back](food.md)
 
 *   [Levels of Food Storage](#FoodStorage-LevelsofFoodStorage)
