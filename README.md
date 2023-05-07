@@ -100,7 +100,7 @@ In the various sections you will find things broken out into levels. These are d
 Phase 1 Evaluate your situation
 -------------------------------
 
-*   Fill out the [evaluation form](./Home preparedness evaluation form.pdf)
+*   Fill out the [evaluation form](/Home%20preparedness%20evaluation%20form.pdf)
     
 
 Phase II Work towards Level I
