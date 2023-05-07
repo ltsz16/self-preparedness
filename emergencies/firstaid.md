@@ -5,7 +5,6 @@
 
 Again, Level I should be considered the required minimum. Some of the higher level items will depend upon the medical expertise of the household occupants.
 
-/\*<!\[CDATA\[\*/ div.rbtoc1683464772511 {padding: 0px;} div.rbtoc1683464772511 ul {list-style: disc;margin-left: 0px;} div.rbtoc1683464772511 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
 *   [Personal Kit](#First-AidKit-PersonalKit)
     *   [Younger Kids](#First-AidKit-YoungerKids)
@@ -355,3 +354,7 @@ Full Kit (Requires adv. first aid knowledge)
 *   Chest seal (2, vented and non-vented)
     
 *   Calcium Alginate dressing (4X8, 3)
+
+
+# Training
+[Training outline](firstaid_training.md)
