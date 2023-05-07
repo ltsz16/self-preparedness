@@ -6,6 +6,7 @@
 
 Step 1: Evaluate your current standing
 ======================================
+For this step simply evaluate where you are.
 
 ·         Have up to date will?   Y/N
 
