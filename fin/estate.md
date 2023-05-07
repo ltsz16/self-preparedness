@@ -1,6 +1,6 @@
 [Back to main](../README.md)
 
-[Back to Finance section](fin.md)
+[Back to Finance section](finance.md)
 
 
 
