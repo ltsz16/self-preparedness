@@ -3,13 +3,6 @@
 [Back](prep.md)
 
 
-[72-Hour Kit](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/497713153/72-Hour+Kit)
-=============================================================================================
-
-View dedicated [page](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/497713153/72-Hour+Kit) for 72-hour kit
-
-[Special training video](http://www2c.cdc.gov/podcasts/player.asp?f=8626691)
-
 Annual Supply
 =============
 
