@@ -3,21 +3,19 @@
 **Table of Contents**
 =====================
 
-*   [Vision](#EmergencyPreparedness-Vision)
-*   [Goal](#EmergencyPreparedness-Goal)
-*   [Counsel](#EmergencyPreparedness-Counsel)
-*   [Roadmap](#EmergencyPreparedness-Roadmap)
-    *   [Phase 1 Evaluate your situation](#EmergencyPreparedness-Phase1Evaluateyoursituation)
-    *   [Phase II Work towards Level I](#EmergencyPreparedness-PhaseIIWorktowardsLevelI)
-    *   [Phase III](#EmergencyPreparedness-PhaseIII)
-    *   [Phase IV](#EmergencyPreparedness-PhaseIV)
-    *   [Phase V](#EmergencyPreparedness-PhaseV)
-*   [Levels](#EmergencyPreparedness-Levels)
-*   [Resources](#EmergencyPreparedness-Resources)
-*   [Quick navigation](#EmergencyPreparedness-Quicknavigation)
-*   [Table of Contents](#EmergencyPreparedness-TableofContents)
+*   [Vision](#README.md-Vision)
+*   [Goal](#README.md-Goal)
+*   [Counsel](#README.md-Counsel)
+*   [Levels](#README.md-Levels)
+*   [Roadmap](#README.md-Roadmap)
+    *   [Phase 1 Evaluate your situation](#README.md-Phase1Evaluateyoursituation)
+    *   [Phase II Work towards Level I](#README.md-PhaseIIWorktowardsLevelI)
+    *   [Phase III](#README.md-PhaseIII)
+    *   [Phase IV](#README.md-PhaseIV)
+    *   [Phase V](#README.md-PhaseV)
 
-
+*   [Resources](#README.md-Resources)
+*   [Quick navigation](#README.md-Quicknavigation)
 
 Vision
 ======
