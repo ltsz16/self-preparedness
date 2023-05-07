@@ -325,7 +325,7 @@ Resources
 
 [Provident Living website](https://providentliving.churchofjesuschrist.org/?lang=eng)
 
-**Quick navigation**
+Quick navigation
 ====================
 
 ## Food
