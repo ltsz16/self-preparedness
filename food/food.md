@@ -1,4 +1,4 @@
-(Back to main)[../README.md]
+(Back to main)[README.md]
 
 # Storage
 ## Food Storage
