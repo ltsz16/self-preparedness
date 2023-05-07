@@ -110,7 +110,7 @@ Phase II Work towards Level I
     
     *   Complete Steps 2-11 in the [Financial Plan](fin/finance.md)
         
-    *   Complete Steps 2-\* in the Estate Plan
+    *   Complete Steps 2-\* in the [Estate Plan](fin/estate.md)
         
 *   Achieve Level I prepardness
     
@@ -182,7 +182,7 @@ Phase III
     
     *   Complete Steps 12-16 in the [Financial Plan](fin/finance.md)
         
-    *   Complete Steps \* in the Estate Plan
+    *   Complete Steps \* in the [Estate Plan](fin/estate.md)
         
 *   Achieve Level II prepardness
     
@@ -237,7 +237,7 @@ Phase IV
     
     *   Complete Steps 17-19 in the [Financial Plan](fin/finance.md)
         
-    *   Complete Steps 2-\* in the Estate Plan
+    *   Complete Steps 2-\* in the [Estate Plan](fin/estate.md)
         
 *   Achieve Level III prepardness
     
