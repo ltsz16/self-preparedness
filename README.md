@@ -104,7 +104,7 @@ In the various sections you will find things broken out into levels. These are d
 Phase 1 Evaluate your situation
 -------------------------------
 
-*   Fill out the [evaluation form](eval.pdf)
+*   Fill out the [evaluation form](Home preparedness evaluation form.pdf)
     
 
 Phase II Work towards Level I
@@ -112,7 +112,7 @@ Phase II Work towards Level I
 
 *   Achieve Level I standing in finances
     
-    *   Complete Steps 2-11 in the Financial Plan
+    *   Complete Steps 2-11 in the [Financial Plan](fin/finance.md)
         
     *   Complete Steps 2-\* in the Estate Plan
         
@@ -184,7 +184,7 @@ Phase III
 
 *   Achieve Level II standing in finances
     
-    *   Complete Steps 12-16 in the Financial Plan
+    *   Complete Steps 12-16 in the [Financial Plan](fin/finance.md)
         
     *   Complete Steps \* in the Estate Plan
         
@@ -239,7 +239,7 @@ Phase IV
 
 *   Achieve Level III standing in finances
     
-    *   Complete Steps 17-19 in the Financial Plan
+    *   Complete Steps 17-19 in the [Financial Plan](fin/finance.md)
         
     *   Complete Steps 2-\* in the Estate Plan
         
@@ -343,6 +343,3 @@ Information on the steps for financial self-reliance such as getting out of debt
 Information about 72-hour kits, storage of non-food items, first aid information
 
 
-**Tasks**
-
-<table data-layout="full-width" class="confluenceTable"><colgroup><col style="width: 566.0px;"></colgroup><tbody><tr><td class="confluenceTd"><ul class="inline-task-list" data-inline-tasks-content-id="32955"><li data-inline-task-id="59"><span class="placeholder-inline-tasks">Read warning and counsel (articles on this page)</span></li><li data-inline-task-id="56"><span class="placeholder-inline-tasks">Complete Personal<a href="https://toddfamily.atlassian.net/wiki/download/attachments/32955/Home%20preparedness%20evaluation%20form.pdf?api=v2" rel="nofollow"> Assessment Form</a></span></li><li data-inline-task-id="14"><span class="placeholder-inline-tasks">Make a plan (as a minimum reach Level 1 in each area)</span></li><li data-inline-task-id="58"><span class="placeholder-inline-tasks">Execute on plan</span></li><li data-inline-task-id="15"><span class="placeholder-inline-tasks">Complete phases II - V on this page</span></li></ul></td></tr></tbody></table>
