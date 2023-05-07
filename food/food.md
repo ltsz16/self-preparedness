@@ -1,4 +1,5 @@
 (Back to main)[README.md]
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
 
 # Storage
 ## Food Storage
