@@ -176,7 +176,7 @@ Phase III
         
     *   Achieve [Level II home first-aid](emergencies/firstaid.md#Level-II.1) kit
         
-    *   Achieve a [Vehicle first-aid]emergencies/firstaid.md#Vehicle-Kit) kit
+    *   Achieve a [Vehicle first-aid](emergencies/firstaid.md#Vehicle-Kit) kit
         
     *   Achieve Level II clothing
         
@@ -223,13 +223,13 @@ Phase IV
         
 *   Achieve Level III prepardness
     
-    *   Achieve [Level III annual food storage](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/196609/Food+Storage#Level-III) (nicities)
+    *   Achieve [Level III annual food storage](food/foodstorage.md#Level-III) (nicities)
         
-    *   Achieve [Level III water storage](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/196760/Water+Storage#Level-III) (3 month supply)
+    *   Achieve [Level III water storage](food/watestorage.md#Level-III) (3 month supply)
         
-    *   Achieve [Level III personal first-aid](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/33359/First-Aid+Kit#Level-III) kits per individual
+    *   Achieve [Level III personal first-aid](emergencies/firstaid.md#Level-III) kits per individual
         
-    *   Achieve [Level III home first-aid](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/33359/First-Aid+Kit#Level-III.1) kit
+    *   Achieve [Level III home first-aid](emergencies/firstaid.md#Level-III.1) kit
         
     *   Achieve Level III clothing
         
@@ -285,11 +285,11 @@ Phase V
 
 *   Achieve Level IV prepardness
     
-    *   Achieve [Level IV water storage](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/196760/Water+Storage#Level-IV) (3 month supply)
+    *   Achieve [Level IV water storage](food/waterstorage.md#Level-IV) (3 month supply)
         
-    *   Achieve [Level IV personal first-aid](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/33359/First-Aid+Kit#Level-IV) kits per individual
+    *   Achieve [Level IV personal first-aid](emergencies/firstaid.md#Level-IV) kits per individual
         
-    *   Achieve [Level IV home first-aid](https://toddfamily.atlassian.net/wiki/spaces/AS/pages/33359/First-Aid+Kit#Level-IV.1) kit
+    *   Achieve [Level IV home first-aid](emergencies/firstaid.md#Level-IV.1) kit
         
     *   Achieve Level IV clothing
         
