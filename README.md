@@ -55,7 +55,7 @@ Of special note:
 
 In the above talk He starts by stating: “Brethren and sisters, I commend to you the excellent addresses that have been given here this morning by Sister Barbara Smith, president of the Relief Society, and the Brethren. As I listened to their addresses, I kept thinking over and over of something the Savior said,“Why call ye me Lord, Lord, and do not the things which I say?” It rolled over and over and over in my mind: “Why call ye me, Lord, Lord, and do not the things which I say?”
 
-In addition to his counsel President Kimball explicitly asked the Saints to study those following talks
+### In addition to his counsel President Kimball explicitly asked the Saints to study those following talks
 
 [Food Storage, Elder Featherstone](https://www.churchofjesuschrist.org/study/general-conference/1976/04/food-storage?lang=eng)
 
