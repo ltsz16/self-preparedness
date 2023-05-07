@@ -4,18 +4,18 @@
 =====================
 
 *   [Vision](#Vision)
-*   [Goal](#README.md-Goal)
-*   [Counsel](#README.md-Counsel)
-*   [Levels](#README.md-Levels)
-*   [Roadmap](#README.md-Roadmap)
-    *   [Phase 1 Evaluate your situation](#README.md-Phase1Evaluateyoursituation)
-    *   [Phase II Work towards Level I](#README.md-PhaseIIWorktowardsLevelI)
-    *   [Phase III](#README.md-PhaseIII)
-    *   [Phase IV](#README.md-PhaseIV)
-    *   [Phase V](#README.md-PhaseV)
+*   [Goal](#Goal)
+*   [Counsel](#Counsel)
+*   [Levels](#Levels)
+*   [Roadmap](#Roadmap)
+    *   [Phase 1 Evaluate your situation](#Phase1Evaluateyoursituation)
+    *   [Phase II Work towards Level I](#PhaseIIWorktowardsLevelI)
+    *   [Phase III](#PhaseIII)
+    *   [Phase IV](#PhaseIV)
+    *   [Phase V](#PhaseV)
 
-*   [Resources](#README.md-Resources)
-*   [Quick navigation](#README.md-Quicknavigation)
+*   [Resources](#Resources)
+*   [Quick navigation](#Quicknavigation)
 
 Vision
 ======
