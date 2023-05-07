@@ -1,6 +1,6 @@
 [Back to main](../README.md)
 
-[Back to Fin](fin.md)
+[Back to Finance section](fin.md)
 
 
 Long-term Ways
