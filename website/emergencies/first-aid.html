@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>First Aid Kits — Ready at Home</title>
+  <meta name="description" content="Build personal, household, and vehicle first aid kits at every level — from a pocket essentials kit to an advanced trauma kit.">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <style>
+    .kit-level { margin-bottom: 2.5rem; }
+    .kit-badge {
+      display: inline-block;
+      font-size: 0.78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      padding: 0.2rem 0.8rem;
+      border-radius: 20px;
+      color: #fff;
+      margin-bottom: 0.5rem;
+    }
+    .kit-badge.l1 { background: var(--green); }
+    .kit-badge.l2 { background: var(--green-dark); }
+    .kit-badge.l3 { background: var(--brown); }
+    .kit-badge.l4 { background: var(--brown-dark); }
+    .kit-badge.vehicle { background: #555; }
+    .kit-badge.advanced { background: #2c1810; }
+    .kit-items { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 0.4rem 1.5rem; margin-top: 0.75rem; }
+    .kit-items li { padding: 0.4rem 0; border-bottom: 1px solid var(--cream-dark); font-size: 0.95rem; color: var(--text-mid); display: flex; gap: 0.5rem; align-items: baseline; }
+    .kit-items li::before { content: "•"; font-weight: 900; flex-shrink: 0; }
+    .kit-items.l1 li::before { color: var(--green); }
+    .kit-items.l2 li::before { color: var(--green-dark); }
+    .kit-items.l3 li::before { color: var(--brown); }
+    .kit-items.l4 li::before { color: var(--brown-dark); }
+    .kit-items.vehicle li::before { color: #555; }
+    .kit-items.advanced li::before { color: #2c1810; }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <div class="nav-inner">
+      <a href="../" class="nav-logo">🏠 Ready at Home</a>
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="nav-links">
+        <a href="../food/">Food</a>
+        <a href="../finances/">Finances</a>
+        <a href="../emergencies/" class="active">Emergencies</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="hero emergencies">
+    <div class="container">
+      <h1>⛑️ First Aid Kits</h1>
+      <p class="tagline">Every level of preparedness requires a different first aid kit. Build yours from pocket-sized essentials to full trauma kit.</p>
+    </div>
+  </div>
+
+  <main>
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="../">Home</a><span class="sep">›</span>
+        <a href="../emergencies/">Emergencies</a><span class="sep">›</span>
+        <span>First Aid Kits</span>
+      </nav>
+
+      <section>
+        <p class="section-intro">
+          First aid kits are not one-size-fits-all. This guide organizes kits by context (personal,
+          household, vehicle) and by level of capability. Start with Level 1 and expand as your
+          training and resources allow.
+        </p>
+        <div class="info-box warning">
+          <strong>Training is required:</strong> A well-stocked kit is only useful if you know
+          how to use it. Before assembling a Level 3 or Level 4 kit, take the corresponding first
+          aid training. See our <a href="first-aid-training.html">First Aid Training guide</a>.
+        </div>
+      </section>
+
+      <!-- ───── PERSONAL KITS ───── -->
+      <section>
+        <h2>Personal First Aid Kits</h2>
+        <p>
+          A personal kit is carried on your person — in a bag, backpack, or vehicle glovebox.
+          It handles the most common individual injuries and buys time until higher-level care
+          is available.
+        </p>
+
+        <div class="kit-level">
+          <h3><span class="kit-badge l1">Level 1</span> Everyday Carry Kit</h3>
+          <p style="font-size:0.93rem;color:var(--text-mid)">Fits in a small pouch or jacket pocket. Handles everyday minor injuries.</p>
+          <ul class="kit-items l1">
+            <li>Folding pocket knife or small multi-tool</li>
+            <li>Emergency whistle</li>
+            <li>Assorted adhesive bandages (10–15 count)</li>
+            <li>2 × 4×4 gauze pads</li>
+            <li>Medical tape (1 roll)</li>
+            <li>Nitrile gloves (2 pairs)</li>
+            <li>Small tube of antibiotic ointment</li>
+            <li>Pain relievers (ibuprofen or acetaminophen, individually wrapped)</li>
+          </ul>
+        </div>
+
+        <div class="kit-level">
+          <h3><span class="kit-badge l2">Level 2</span> Day Hike / Commute Kit</h3>
+          <p style="font-size:0.93rem;color:var(--text-mid)">Expands coverage to outdoor and extended-day scenarios.</p>
+          <ul class="kit-items l2">
+            <li><em>Everything in Level 1, plus:</em></li>
+            <li>Israeli bandage (pressure dressing)</li>
+            <li>Rolled gauze (1 roll, 4-inch)</li>
+            <li>SAM splint</li>
+            <li>CPR face shield or pocket mask</li>
+            <li>Tweezers</li>
+            <li>Medical scissors (trauma shears)</li>
+            <li>Blister treatment pads</li>
+            <li>Instant cold pack</li>
+            <li>Emergency space blanket</li>
+            <li>Small flashlight</li>
+            <li>Water purification tablets</li>
+          </ul>
+        </div>
+
+        <div class="kit-level">
+          <h3><span class="kit-badge l3">Level 3</span> Extended Field Kit</h3>
+          <p style="font-size:0.93rem;color:var(--text-mid)">For multi-day camping, backcountry travel, or extended emergency deployment. Requires basic first aid training.</p>
+          <ul class="kit-items l3">
+            <li><em>Everything in Level 2, plus:</em></li>
+            <li>Commercial tourniquet (CAT or SOFTT-W)</li>
+            <li>Chest seals (vented, 2-pack)</li>
+            <li>Hemostatic gauze (QuikClot or Combat Gauze)</li>
+            <li>Nasopharyngeal airway (NPA) + lubricant</li>
+            <li>Canteen or collapsible water bottle</li>
+            <li>Oral rehydration salts</li>
+            <li>Irrigation syringe (for wound cleaning)</li>
+            <li>Infection control: betadine wipes, extra antibiotic ointment</li>
+          </ul>
+        </div>
+
+        <div class="kit-level">
+          <h3><span class="kit-badge l4">Level 4</span> Trauma / Tactical Kit</h3>
+          <p style="font-size:0.93rem;color:var(--text-mid)">Advanced trauma capability. Appropriate only with extensive training in trauma care.</p>
+          <ul class="kit-items l4">
+            <li><em>Everything in Level 3, plus:</em></li>
+            <li>Needle decompression kit</li>
+            <li>Hypothermia prevention blanket</li>
+            <li>Full-length SAM splints (multiple sizes)</li>
+            <li>Advanced wound care supplies</li>
+            <li>IV administration supplies (training required)</li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- ───── HOUSEHOLD KITS ───── -->
+      <section>
+        <h2>Household First Aid Kits</h2>
+        <p>
+          Household kits are stored at home and are intended to serve the whole family across
+          a wide range of injuries and illnesses. They are larger and more comprehensive than
+          personal kits.
+        </p>
+
+        <div class="kit-level">
+          <h3><span class="kit-badge l1">Level 1</span> Basic Home Kit</h3>
+          <p style="font-size:0.93rem;color:var(--text-mid)">The standard household first aid kit — handles everyday injuries, illness, and minor emergencies.</p>
+          <ul class="kit-items l1">
+            <li>Adhesive bandages (assorted sizes, 30+ count)</li>
+            <li>Sterile gauze pads (4×4 and 2×2, 10+ of each)</li>
+            <li>Rolled gauze bandages (3 sizes, 2 rolls each)</li>
+            <li>Medical adhesive tape (2 rolls)</li>
+            <li>Elastic bandage / ACE wrap (2)</li>
+            <li>Nitrile gloves (multiple pairs)</li>
+            <li>Antiviral / antibacterial wipes</li>
+            <li>Antibiotic ointment (large tube)</li>
+            <li>Hydrocortisone cream (1%)</li>
+            <li>Antiseptic solution (e.g., betadine)</li>
+            <li>Digital thermometer</li>
+            <li>Tweezers and medical scissors</li>
+            <li>CPR face shield</li>
+            <li>First aid reference manual</li>
+            <li>Pain reliever (ibuprofen, acetaminophen)</li>
+            <li>Antihistamine (diphenhydramine / Benadryl)</li>
+            <li>Antidiarrheal (loperamide / Imodium)</li>
+            <li>Antacid (calcium carbonate / Tums)</li>
+          </ul>
+        </div>
+
+        <div class="kit-level">
+          <h3><span class="kit-badge l2">Level 2</span> Expanded Home Kit</h3>
+          <p style="font-size:0.93rem;color:var(--text-mid)">For more comprehensive home medical capability, including wound management and diagnostics.</p>
+          <ul class="kit-items l2">
+            <li><em>Everything in Level 1, plus:</em></li>
+            <li>Israeli bandage (pressure dressing, 4-inch and 6-inch)</li>
+            <li>Tourniquet (CAT or SOFTT-W)</li>
+            <li>Hemostatic gauze</li>
+            <li>Irrigation syringe (large, for wound flushing)</li>
+            <li>SAM splint (multiple sizes)</li>
+            <li>Instant cold packs (multiple)</li>
+            <li>Instant heat packs (multiple)</li>
+            <li>Oral rehydration salts (packets)</li>
+            <li>Stethoscope</li>
+            <li>Blood pressure cuff (manual)</li>
+            <li>Pulse oximeter</li>
+            <li>Otoscope (ear light)</li>
+          </ul>
+        </div>
+
+        <div class="kit-level">
+          <h3><span class="kit-badge l3">Level 3</span> Home Field Hospital Kit</h3>
+          <p style="font-size:0.93rem;color:var(--text-mid)">For situations where professional medical care may be unavailable for extended periods. Requires formal training in wound care and suturing.</p>
+          <ul class="kit-items l3">
+            <li><em>Everything in Level 2, plus:</em></li>
+            <li>Suture kit (sterile sutures, needle driver, tissue forceps)</li>
+            <li>Stapler kit (skin stapler + staple remover)</li>
+            <li>Steri-strips / wound closure strips (multiple sizes)</li>
+            <li>Dental first aid kit</li>
+            <li>Urinary catheter kit (advanced — training required)</li>
+            <li>Broad-spectrum antibiotics (with valid prescription)</li>
+            <li>Anti-inflammatory medications</li>
+            <li>Prescription pain management medications (with valid prescription)</li>
+          </ul>
+        </div>
+
+        <div class="kit-level">
+          <h3><span class="kit-badge l4">Level 4</span> Advanced Medical Kit</h3>
+          <p style="font-size:0.93rem;color:var(--text-mid)">EMS-level capability. Appropriate only for trained medical personnel in a true extended grid-down scenario.</p>
+          <ul class="kit-items l4">
+            <li><em>Everything in Level 3, plus:</em></li>
+            <li>Chest drain / thoracic needle decompression kit</li>
+            <li>Advanced airway management (King LT or supraglottic airway)</li>
+            <li>Full medication range (antibiotic, cardiac, respiratory)</li>
+            <li>IV fluid and administration set</li>
+            <li>Foley catheter kit</li>
+            <li>Advanced wound care: irrigation solution, wound vac if possible</li>
+            <li>Ophthalmology kit (eye examination and treatment supplies)</li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- ───── VEHICLE KIT ───── -->
+      <section>
+        <h2>Vehicle First Aid Kit</h2>
+        <p>
+          Every vehicle should have a dedicated first aid kit. Vehicle accidents are the most
+          common emergency scenario most people will face.
+        </p>
+        <div class="kit-level">
+          <h3><span class="kit-badge vehicle">Vehicle</span> Car Kit</h3>
+          <ul class="kit-items vehicle">
+            <li>Emergency blanket (space blanket)</li>
+            <li>Tourniquet (CAT)</li>
+            <li>Israeli bandage / pressure dressing</li>
+            <li>Hemostatic gauze</li>
+            <li>Rolled gauze (2 rolls)</li>
+            <li>Adhesive bandages (assorted)</li>
+            <li>Nitrile gloves (multiple pairs)</li>
+            <li>Trauma shears / scissors</li>
+            <li>CPR face shield</li>
+            <li>Chemical cold pack</li>
+            <li>Reflective safety triangles or flares</li>
+            <li>Fire extinguisher (small, rated for vehicle fires)</li>
+            <li>Jumper cables</li>
+            <li>Basic tools (screwdrivers, wrench)</li>
+            <li>Phone charger cable (matching family devices)</li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- ───── MEDICATIONS ───── -->
+      <section>
+        <h2>Medication Storage</h2>
+        <p>
+          Medications in your first aid kit should be checked at least twice a year and replaced
+          before expiration. Build a 30–90 day rotating supply of:
+        </p>
+        <ul>
+          <li><strong>Pain/fever:</strong> ibuprofen (Advil), acetaminophen (Tylenol), aspirin</li>
+          <li><strong>Allergy/antihistamine:</strong> diphenhydramine (Benadryl), cetirizine (Zyrtec)</li>
+          <li><strong>Digestive:</strong> loperamide (Imodium), famotidine (Pepcid), bismuth subsalicylate (Pepto-Bismol)</li>
+          <li><strong>Topical:</strong> hydrocortisone cream, antifungal cream, antibiotic ointment</li>
+          <li><strong>Eye:</strong> artificial tears, eye wash station</li>
+          <li><strong>Personal prescriptions:</strong> maintain a 30–90 day supply; discuss with your physician</li>
+        </ul>
+        <div class="info-box tip">
+          <strong>Label everything clearly</strong> with the medication name, dosage, and expiration date.
+          Include a printed dosing card for children's weights, since children require weight-based dosing.
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="footer-nav">
+        <a href="../food/">Food</a>
+        <a href="../finances/">Finances</a>
+        <a href="../emergencies/">Emergencies</a>
+      </div>
+      <p class="footer-bottom">Ready at Home — Building family security, one step at a time.</p>
+    </div>
+  </footer>
+
+  <script src="../assets/js/main.js"></script>
+</body>
+</html>

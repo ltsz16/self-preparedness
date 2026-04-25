@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Food Preparedness — Ready at Home</title>
+  <meta name="description" content="Plan your family's annual food storage with our custom calculator. Enter household members by age group and get a personalized one-year supply plan.">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <style>
+    /* Extra style for item examples in calculator results */
+    .item-examples { font-size: 0.83rem; color: var(--text-light); }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <div class="nav-inner">
+      <a href="../" class="nav-logo">🏠 Ready at Home</a>
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="nav-links">
+        <a href="../food/" class="active">Food</a>
+        <a href="../finances/">Finances</a>
+        <a href="../emergencies/">Emergencies</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="hero">
+    <div class="container">
+      <h1>🌾 Food Preparedness</h1>
+      <p class="tagline">Know what to store, how much to store, and how to produce food at home.</p>
+    </div>
+  </div>
+
+  <main>
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="../">Home</a>
+        <span class="sep">›</span>
+        <span>Food</span>
+      </nav>
+
+      <!-- ── Calculator ─────────────────────────────────────────────────── -->
+      <section>
+        <div class="calculator-box">
+          <h2>🧮 Your Family Food Plan Calculator</h2>
+          <p>
+            Enter the number of people in your household for each age group. We'll calculate
+            your recommended one-year food storage — adjusted to each age group's nutritional
+            needs — based on established food storage guidelines.
+          </p>
+
+          <div class="info-box">
+            <strong>How age adjustments work:</strong> Adults (11 and older) need a full portion.
+            Children need a percentage of an adult's annual quantity: <strong>90%</strong> for ages 7–10,
+            <strong>70%</strong> for ages 4–6, and <strong>50%</strong> for ages 3 and under.
+          </div>
+
+          <div class="form-grid">
+            <div class="form-group">
+              <label for="cnt-11plus">
+                Members aged 11 and older
+                <span class="label-sub">Full adult portion (100%)</span>
+              </label>
+              <input type="number" id="cnt-11plus" class="calc-input"
+                     min="0" max="30" value="0" placeholder="0">
+            </div>
+            <div class="form-group">
+              <label for="cnt-7to10">
+                Members aged 7 to 10
+                <span class="label-sub">90% of adult portion</span>
+              </label>
+              <input type="number" id="cnt-7to10" class="calc-input"
+                     min="0" max="30" value="0" placeholder="0">
+            </div>
+            <div class="form-group">
+              <label for="cnt-4to6">
+                Members aged 4 to 6
+                <span class="label-sub">70% of adult portion</span>
+              </label>
+              <input type="number" id="cnt-4to6" class="calc-input"
+                     min="0" max="30" value="0" placeholder="0">
+            </div>
+            <div class="form-group">
+              <label for="cnt-3under">
+                Members aged 3 and under
+                <span class="label-sub">50% of adult portion</span>
+              </label>
+              <input type="number" id="cnt-3under" class="calc-input"
+                     min="0" max="30" value="0" placeholder="0">
+            </div>
+          </div>
+
+          <div class="calc-actions">
+            <button id="calc-btn" class="btn btn-primary">Calculate My Plan →</button>
+            <button id="reset-btn" class="btn btn-outline">Reset</button>
+          </div>
+
+          <!-- Results (hidden until calculation) -->
+          <div id="calc-results" class="calc-results">
+            <p id="results-summary" class="results-intro"></p>
+
+            <div class="results-level">
+              <h3>Level I — Core Annual Food Storage</h3>
+              <p class="result-note">
+                The essential foundation: calorie-dense, long-shelf-life staples that will
+                sustain your family for a full year.
+              </p>
+              <div class="table-wrap">
+                <table id="results-table-l1">
+                  <thead>
+                    <tr>
+                      <th>Food Item</th>
+                      <th>Per Adult / Year</th>
+                      <th>Your Household / Year</th>
+                    </tr>
+                  </thead>
+                  <tbody></tbody>
+                </table>
+              </div>
+            </div>
+
+            <div class="results-level">
+              <h3>Level II — Expanded Annual Food Storage</h3>
+              <p class="result-note">
+                Adding fruits, vegetables, protein, and dairy creates a balanced, nutritious
+                one-year supply. These quantities are based on a 2,000 calorie per day diet.
+              </p>
+              <div class="table-wrap">
+                <table id="results-table-l2">
+                  <thead>
+                    <tr>
+                      <th>Food Item</th>
+                      <th>Per Adult / Year</th>
+                      <th>Your Household / Year</th>
+                    </tr>
+                  </thead>
+                  <tbody></tbody>
+                </table>
+              </div>
+            </div>
+
+            <div class="info-box tip">
+              <strong>💡 Next step:</strong> Once you know your annual totals, divide by 4 for a
+              3-month starting goal, or by 12 for a monthly purchase target. Use oldest stock
+              first and replace what you use — rotation keeps your storage fresh.
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── Explore Food Topics ────────────────────────────────────────── -->
+      <section>
+        <h2>Explore Food Topics</h2>
+        <div class="card-grid">
+          <div class="card">
+            <div class="card-icon">🏺</div>
+            <h3>Food Storage</h3>
+            <p>
+              Learn about the five levels of food storage, detailed shelf life tables, and
+              safe packaging methods — PETE bottles, foil pouches, and food-grade buckets.
+            </p>
+            <a href="storage.html" class="btn btn-primary">Storage Guide →</a>
+          </div>
+          <div class="card">
+            <div class="card-icon">💧</div>
+            <h3>Water Storage</h3>
+            <p>
+              Water is your most critical resource. Learn how much to store, the best
+              containers, purification techniques, and how to find water in an emergency.
+            </p>
+            <a href="water.html" class="btn btn-primary">Water Guide →</a>
+          </div>
+          <div class="card">
+            <div class="card-icon">🌱</div>
+            <h3>Home Food Production</h3>
+            <p>
+              Gardening, quail, rabbits, and more. Growing and raising your own food is
+              the highest level of food self-sufficiency and the ultimate preparedness goal.
+            </p>
+            <a href="husbandry/" class="btn btn-primary">Production Guide →</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── 3-month starting strategy ─────────────────────────────────── -->
+      <section>
+        <h2>Starting with a 3-Month Supply</h2>
+        <p>
+          Building a full year's supply can feel overwhelming. The key is to start small
+          and build progressively. Here's the approach:
+        </p>
+        <ol>
+          <li>
+            <strong>Know your family's weekly food needs</strong> — think about what you
+            actually cook and eat in a normal week.
+          </li>
+          <li>
+            <strong>Multiply by 7</strong> to find your one-week supply, then buy a little
+            extra each shopping trip to build your stock.
+          </li>
+          <li>
+            <strong>Expand gradually:</strong> week → month → three months → one year.
+            Each milestone is a real achievement.
+          </li>
+          <li>
+            <strong>Rotate regularly</strong> — eat what you store and replace it. This
+            keeps quality high and prevents waste.
+          </li>
+        </ol>
+        <div class="info-box">
+          <strong>Quick math:</strong> Take any annual total from the calculator above,
+          divide by <strong>4</strong> for a 3-month goal, or by <strong>12</strong> for a
+          monthly purchase target.
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="footer-nav">
+        <a href="../food/">Food</a>
+        <a href="../finances/">Finances</a>
+        <a href="../emergencies/">Emergencies</a>
+      </div>
+      <p class="footer-bottom">Ready at Home — Building family security, one step at a time.</p>
+    </div>
+  </footer>
+
+  <script src="../assets/js/main.js"></script>
+  <script src="../assets/js/calculator.js"></script>
+</body>
+</html>

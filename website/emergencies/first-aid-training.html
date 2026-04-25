@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>First Aid Training — Ready at Home</title>
+  <meta name="description" content="Learn the first aid skills that save lives: CPR, Heimlich maneuver, AED use, and a complete curriculum from basic to advanced emergency care.">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <style>
+    .training-level { margin-bottom: 2.5rem; }
+    .training-badge {
+      display: inline-block;
+      font-size: 0.78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      padding: 0.2rem 0.8rem;
+      border-radius: 20px;
+      color: #fff;
+      margin-bottom: 0.5rem;
+    }
+    .training-badge.basic { background: var(--green); }
+    .training-badge.advanced { background: var(--brown); }
+    .skill-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; margin-top: 1rem; }
+    .skill-card { background: var(--white); border-radius: var(--radius); box-shadow: var(--shadow); padding: 1.1rem 1.25rem; }
+    .skill-card h4 { font-size: 1rem; color: var(--text-dark); margin: 0 0 0.4rem; }
+    .skill-card p { font-size: 0.9rem; color: var(--text-mid); margin: 0; }
+    .condition-list { columns: 2; column-gap: 2rem; list-style: none; padding: 0; }
+    .condition-list li { break-inside: avoid; padding: 0.35rem 0; border-bottom: 1px solid var(--cream-dark); font-size: 0.93rem; color: var(--text-mid); }
+    .condition-list li::before { content: "→ "; color: var(--green); font-weight: 700; }
+    @media (max-width: 600px) { .condition-list { columns: 1; } }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <div class="nav-inner">
+      <a href="../" class="nav-logo">🏠 Ready at Home</a>
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="nav-links">
+        <a href="../food/">Food</a>
+        <a href="../finances/">Finances</a>
+        <a href="../emergencies/" class="active">Emergencies</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="hero emergencies">
+    <div class="container">
+      <h1>🩺 First Aid Training</h1>
+      <p class="tagline">Skills are the most portable emergency supply you own. Learn them before you need them — because when the moment comes, there's no time to search for a YouTube tutorial.</p>
+    </div>
+  </div>
+
+  <main>
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="../">Home</a><span class="sep">›</span>
+        <a href="../emergencies/">Emergencies</a><span class="sep">›</span>
+        <span>First Aid Training</span>
+      </nav>
+
+      <section>
+        <p class="section-intro">
+          First aid training is organized into three tiers. Start at the foundation —
+          CPR, Heimlich, and AED — which can be completed in an afternoon and require no
+          medical background. Then build toward advanced skills as your commitment and
+          resources allow.
+        </p>
+        <div class="info-box">
+          <strong>Where to train:</strong> The <a href="https://www.redcross.org/take-a-class" target="_blank" rel="noopener">American Red Cross</a>
+          and <a href="https://cpr.heart.org/" target="_blank" rel="noopener">American Heart Association</a>
+          offer CPR, First Aid, and advanced courses at local chapters and online. Many communities
+          also offer free or subsidized training through fire departments and community centers.
+        </div>
+      </section>
+
+      <!-- ─── FOUNDATION: CPR / Heimlich / AED ─── -->
+      <section class="training-level">
+        <h2>
+          <span class="training-badge basic">Foundation</span><br>
+          CPR, Heimlich Maneuver &amp; AED
+        </h2>
+        <p>
+          These three skills represent the most critical life-saving interventions a layperson
+          can perform. They require no equipment beyond your hands (and an AED, which is now
+          widely available in public places). A certified course covers all of these in a
+          half-day session. Re-certify every 2 years.
+        </p>
+
+        <div class="skill-grid">
+          <div class="skill-card">
+            <h4>🫀 CPR — Infant</h4>
+            <p>Two-finger chest compressions with rescue breaths. Rate: 100–120/min.
+               Compression depth: 1.5 inches. Critical for respiratory emergencies in babies.</p>
+          </div>
+          <div class="skill-card">
+            <h4>🫀 CPR — Child (1–8 years)</h4>
+            <p>One or two-hand compressions. Rate: 100–120/min. Depth: 2 inches.
+               30 compressions to 2 breaths for a single rescuer.</p>
+          </div>
+          <div class="skill-card">
+            <h4>🫀 CPR — Adult</h4>
+            <p>Two-hand compressions on center of chest. Rate: 100–120/min. Depth: 2–2.4 inches.
+               Push hard and fast. Minimize interruptions. Rotate rescuers every 2 minutes.</p>
+          </div>
+          <div class="skill-card">
+            <h4>🫀 CPR — Pregnant Person</h4>
+            <p>Standard adult CPR with patient tilted slightly left (place wedge or rolled
+               blanket under right hip). This displaces the uterus from the inferior vena cava.</p>
+          </div>
+          <div class="skill-card">
+            <h4>🫀 CPR — Disabled/Immobile Person</h4>
+            <p>Same as adult CPR. If wheelchair-bound, keep in chair only if you cannot
+               safely lower them; compress on the sternum with the chair reclined if possible.</p>
+          </div>
+          <div class="skill-card">
+            <h4>🤲 Heimlich — Adult &amp; Child</h4>
+            <p>5 back blows + 5 abdominal thrusts (repeat). Position hands 1–2 inches above
+               the navel. Thrust sharply upward and inward. Do not perform on infants.</p>
+          </div>
+          <div class="skill-card">
+            <h4>🤲 Heimlich — Infant</h4>
+            <p>Face-down back blows (5×) + face-up chest thrusts (5×) alternating. Never
+               perform abdominal thrusts on a baby under 1 year.</p>
+          </div>
+          <div class="skill-card">
+            <h4>⚡ AED Use</h4>
+            <p>Turn on → attach pads (chest + under left arm) → clear everyone → deliver shock
+               if advised → immediately resume CPR. AEDs guide you with voice prompts —
+               do not hesitate to use one.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- ─── BASIC FIRST AID ─── -->
+      <section class="training-level">
+        <h2>
+          <span class="training-badge basic">Level 1</span><br>
+          Basic First Aid
+        </h2>
+        <p>
+          Basic first aid covers the most common injuries and medical emergencies you will
+          encounter. A standard Red Cross First Aid course covers most of the conditions below.
+          Plan for ~8 hours of initial training. Re-certify or refresh every 2 years.
+        </p>
+
+        <h3>Conditions Covered</h3>
+        <ul class="condition-list">
+          <li>Fractures and dislocations</li>
+          <li>Sprains and strains</li>
+          <li>Hypothermia and frostbite</li>
+          <li>Heat exhaustion and heat stroke</li>
+          <li>Minor and major burns (1st, 2nd, 3rd degree)</li>
+          <li>Snakebite management</li>
+          <li>Anaphylaxis and EpiPen use</li>
+          <li>Shock recognition and treatment</li>
+          <li>Bleeding control (direct pressure and tourniquets)</li>
+          <li>Wound cleaning and dressing</li>
+          <li>Bandaging techniques (roller, triangular, figure-8)</li>
+          <li>Improvised splinting</li>
+          <li>Patient transport (drag and carry techniques)</li>
+          <li>Drowning recovery and positioning</li>
+          <li>Diabetic emergencies (hyperglycemia / hypoglycemia)</li>
+          <li>Seizure management</li>
+          <li>Fainting and loss of consciousness</li>
+          <li>Eye injuries and foreign body removal</li>
+          <li>Ear and nose injuries</li>
+          <li>Dental emergencies (knocked-out tooth, abscess)</li>
+          <li>Blisters, abrasions, and minor lacerations</li>
+          <li>Insect stings and embedded ticks</li>
+          <li>Poisoning (ingested, inhaled, contact)</li>
+          <li>Carbon monoxide exposure</li>
+          <li>Nosebleeds</li>
+          <li>Chilblain and windburn</li>
+          <li>Improvised stretcher construction</li>
+          <li>Basic bowline knot (for rescue situations)</li>
+          <li>The 5 warning signs of a heart attack</li>
+          <li>The FAST acronym for stroke recognition</li>
+        </ul>
+
+        <div class="info-box tip" style="margin-top:1.5rem">
+          <strong>Heart attack warning signs (the 5):</strong>
+          Chest pain or pressure · Shortness of breath · Pain radiating to arm, jaw, or back ·
+          Cold sweat or nausea · Lightheadedness. If you suspect a heart attack, call 9-1-1
+          immediately and have the person chew one adult aspirin (325 mg) if not allergic.
+        </div>
+      </section>
+
+      <!-- ─── ADVANCED FIRST AID ─── -->
+      <section class="training-level">
+        <h2>
+          <span class="training-badge advanced">Level 2+</span><br>
+          Advanced First Aid Curriculum
+        </h2>
+        <p>
+          Advanced first aid prepares you for situations where professional medical care is
+          unavailable or significantly delayed — such as a large-scale disaster, extended grid-down
+          scenario, or wilderness emergency. This level requires dedicated training through
+          programs such as Wilderness First Responder (WFR), EMT basics, or Tactical Combat
+          Casualty Care (TCCC). Plan for 40+ hours of instruction.
+        </p>
+
+        <div class="skill-grid">
+
+          <div class="skill-card">
+            <h4>🩸 Triage, Trauma &amp; Shock</h4>
+            <p>START triage system · traumatic shock pathophysiology · permissive hypotension ·
+               fluid resuscitation · tourniquet placement and timing · junctional hemorrhage
+               control (groin, armpit, neck).</p>
+          </div>
+
+          <div class="skill-card">
+            <h4>🧠 Head &amp; Spinal Injuries</h4>
+            <p>Traumatic brain injury assessment · GCS scoring · spinal precautions and cervical
+               immobilization · increasing intracranial pressure signs · concussion management ·
+               eye trauma.</p>
+          </div>
+
+          <div class="skill-card">
+            <h4>🫁 Chest &amp; Lung Injuries</h4>
+            <p>Tension pneumothorax recognition and needle decompression · open chest wound and
+               chest seal application · hemothorax management · rib fracture stabilization ·
+               flail chest · emergency cricothyrotomy (surgical airway).</p>
+          </div>
+
+          <div class="skill-card">
+            <h4>🫃 Abdominal &amp; Pelvic Injuries</h4>
+            <p>Evisceration management (saline-moist dressing) · internal bleeding signs ·
+               pelvic binding · impaled object management (stabilize, do not remove) ·
+               ectopic pregnancy recognition.</p>
+          </div>
+
+          <div class="skill-card">
+            <h4>☠️ Toxicology &amp; Poisoning</h4>
+            <p>Common poison identification · organophosphate poisoning (SLUDGE mnemonic) ·
+               opioid overdose and naloxone (Narcan) administration · envenomation management ·
+               carbon monoxide poisoning treatment.</p>
+          </div>
+
+          <div class="skill-card">
+            <h4>❤️ Cardiovascular Emergencies</h4>
+            <p>Advanced cardiac rhythms · manual defibrillation technique · AED maintenance ·
+               post-cardiac arrest care · acute coronary syndrome management in the field.</p>
+          </div>
+
+          <div class="skill-card">
+            <h4>🦠 Extended Care &amp; Infection Control</h4>
+            <p>Wound infection recognition and treatment · antibiotic selection · improvised
+               wound irrigation · fever management · patient monitoring over 24–72 hours ·
+               hygiene in austere environments.</p>
+          </div>
+
+          <div class="skill-card">
+            <h4>🤰 Obstetric Emergencies</h4>
+            <p>Emergency childbirth delivery · prolapsed cord management · postpartum hemorrhage
+               control · preeclampsia and eclampsia recognition.</p>
+          </div>
+
+        </div>
+      </section>
+
+      <!-- ─── TRAINING RESOURCES ─── -->
+      <section>
+        <h2>Training Resources</h2>
+        <div class="card-grid">
+          <div class="card">
+            <div class="card-icon">🎓</div>
+            <h3>American Red Cross</h3>
+            <p>Offers CPR/AED, First Aid, and Wilderness First Aid courses in-person and online. The most widely recognized certification in the US.</p>
+            <a href="https://www.redcross.org/take-a-class" target="_blank" rel="noopener" class="btn btn-outline">Red Cross Classes →</a>
+          </div>
+          <div class="card">
+            <div class="card-icon">❤️</div>
+            <h3>American Heart Association</h3>
+            <p>Certifications in CPR, ACLS, BLS, and PALS. The standard for healthcare provider certification and widely accepted for lay responders.</p>
+            <a href="https://cpr.heart.org/" target="_blank" rel="noopener" class="btn btn-outline">AHA Courses →</a>
+          </div>
+          <div class="card">
+            <div class="card-icon">🏕️</div>
+            <h3>Wilderness First Responder</h3>
+            <p>NOLS and SOLO offer intensive WFR programs — the gold standard for extended field medicine when EMS response will be significantly delayed.</p>
+            <a href="https://www.nols.edu/en/courses/wilderness-medicine/" target="_blank" rel="noopener" class="btn btn-outline">NOLS Wilderness Med →</a>
+          </div>
+        </div>
+
+        <div class="info-box" style="margin-top:1.5rem">
+          <strong>Kids can learn too:</strong> The Red Cross offers "Babysitter's Training" for
+          ages 11+ and "Cat in the Hat First Aid" for younger children. Teaching children
+          basic emergency recognition (when to call 9-1-1, how to describe a location) is
+          one of the highest-leverage preparedness investments you can make.
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="footer-nav">
+        <a href="../food/">Food</a>
+        <a href="../finances/">Finances</a>
+        <a href="../emergencies/">Emergencies</a>
+      </div>
+      <p class="footer-bottom">Ready at Home — Building family security, one step at a time.</p>
+    </div>
+  </footer>
+
+  <script src="../assets/js/main.js"></script>
+</body>
+</html>

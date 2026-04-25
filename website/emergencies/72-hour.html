@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>72-Hour Emergency Kit — Ready at Home</title>
+  <meta name="description" content="Build a Level I and Level II 72-hour emergency kit for your family. Complete item lists for evacuation and shelter-in-place scenarios.">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <style>
+    .kit-section { margin-bottom: 2.5rem; }
+    .kit-badge {
+      display: inline-block;
+      background: var(--green);
+      color: #fff;
+      font-size: 0.78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      padding: 0.2rem 0.75rem;
+      border-radius: 20px;
+      margin-bottom: 0.6rem;
+    }
+    .kit-badge.level2 { background: var(--brown); }
+    .kit-items { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 0.5rem 1.5rem; }
+    .kit-items li { padding: 0.45rem 0; border-bottom: 1px solid var(--cream-dark); font-size: 0.96rem; color: var(--text-mid); display: flex; gap: 0.6rem; align-items: baseline; }
+    .kit-items li::before { content: "✓"; color: var(--green); font-weight: 700; flex-shrink: 0; }
+    .kit-items.level2 li::before { color: var(--brown); }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <div class="nav-inner">
+      <a href="../" class="nav-logo">🏠 Ready at Home</a>
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="nav-links">
+        <a href="../food/">Food</a>
+        <a href="../finances/">Finances</a>
+        <a href="../emergencies/" class="active">Emergencies</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="hero emergencies">
+    <div class="container">
+      <h1>🎒 72-Hour Emergency Kit</h1>
+      <p class="tagline">Be ready to grab and go — or shelter in place — for 72 hours with everything your family needs to survive.</p>
+    </div>
+  </div>
+
+  <main>
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="../">Home</a><span class="sep">›</span>
+        <a href="../emergencies/">Emergencies</a><span class="sep">›</span>
+        <span>72-Hour Kit</span>
+      </nav>
+
+      <section>
+        <h2>Why 72 Hours?</h2>
+        <p>
+          FEMA and emergency management agencies consistently recommend that households be
+          prepared to be self-sufficient for at least 72 hours (3 days) after a major disaster.
+          In many real disaster scenarios — hurricanes, earthquakes, severe storms — it takes
+          emergency services 24–72 hours or longer to reach everyone.
+        </p>
+        <p>
+          A 72-hour kit should be portable and ready at a moment's notice. Store it near the door
+          or in an accessible location where every adult in the household knows to find it.
+        </p>
+        <div class="info-box">
+          <strong>Tip:</strong> Replenish food, water, and medication once a year — make it a habit
+          tied to a date (e.g., daylight saving time changes or a birthday). Check batteries
+          and rotate food every 6 months.
+        </div>
+      </section>
+
+      <!-- Level I Kit -->
+      <section class="kit-section">
+        <h2>
+          <span class="kit-badge">Level I</span><br>
+          Basic 72-Hour Kit
+        </h2>
+        <p>
+          Level I is the essential, portable kit that keeps your family alive and functional
+          for three days. Every household should have these items ready to go.
+        </p>
+
+        <h3>Water</h3>
+        <ul class="kit-items">
+          <li>2 × canteens or water bottles per person</li>
+          <li>Personal water filtration straw (e.g., LifeStraw) per person</li>
+          <li>Portable water filtration system (e.g., Sawyer Squeeze or Katadyn)</li>
+          <li>Water purification tablets (iodine or chlorine)</li>
+        </ul>
+
+        <h3 style="margin-top:1.25rem">Food</h3>
+        <ul class="kit-items">
+          <li>9 dehydrated or freeze-dried meals (3 per person for a family of 3, adjust per family size)</li>
+          <li>High-calorie emergency food bars</li>
+          <li>Manual can opener</li>
+        </ul>
+
+        <h3 style="margin-top:1.25rem">Light &amp; Signaling</h3>
+        <ul class="kit-items">
+          <li>Flashlight + extra batteries (or hand-crank)</li>
+          <li>Headlamp per person</li>
+          <li>Emergency whistle (for signaling rescuers)</li>
+          <li>Waterproof matches or lighter</li>
+          <li>Emergency candles</li>
+        </ul>
+
+        <h3 style="margin-top:1.25rem">Safety &amp; Shelter</h3>
+        <ul class="kit-items">
+          <li>Dust mask or N95 respirator (at least 1 per person)</li>
+          <li>Heavy-duty plastic sheeting + duct tape (for shelter-in-place)</li>
+          <li>Space / emergency blanket (1 per person)</li>
+          <li>Work gloves (heavy-duty)</li>
+          <li>Non-slip shoes (stored by bed for earthquake scenarios)</li>
+        </ul>
+
+        <h3 style="margin-top:1.25rem">First Aid &amp; Hygiene</h3>
+        <ul class="kit-items">
+          <li>First Aid Kit (Level 1 — see <a href="first-aid.html">First Aid Kits guide</a>)</li>
+          <li>Moist towelettes / baby wipes</li>
+          <li>Garbage bags (for sanitation)</li>
+          <li>Hand sanitizer</li>
+        </ul>
+
+        <h3 style="margin-top:1.25rem">Tools &amp; Documents</h3>
+        <ul class="kit-items">
+          <li>Adjustable wrench or pliers (to shut off utilities)</li>
+          <li>Multi-tool or Swiss Army knife</li>
+          <li>$100+ cash in small bills</li>
+          <li>Copies of important documents in waterproof bag (IDs, insurance cards, prescriptions, medical records)</li>
+          <li>Portable phone charger (fully charged)</li>
+        </ul>
+
+        <h3 style="margin-top:1.25rem">Personal &amp; Spiritual</h3>
+        <ul class="kit-items">
+          <li>7-day supply of all prescription medications per person</li>
+          <li>Glasses or contact lens supplies</li>
+          <li>Small scriptures or meaningful reading material</li>
+          <li>Small notepad and pens</li>
+        </ul>
+      </section>
+
+      <!-- Level II Kit -->
+      <section class="kit-section">
+        <h2>
+          <span class="kit-badge level2">Level II</span><br>
+          Extended Evacuation Kit
+        </h2>
+        <p>
+          Level II builds on the Level I kit for extended displacement scenarios — situations
+          where you may need to leave home and stay away for a week or more. These additions
+          increase comfort, communication capability, and self-sufficiency.
+        </p>
+
+        <h3>Shelter &amp; Comfort</h3>
+        <ul class="kit-items level2">
+          <li>Sleeping bag rated to the lowest expected local temperature (1 per person)</li>
+          <li>Tent (appropriate for family size)</li>
+          <li>Ground pad or sleeping mat (1 per person)</li>
+          <li>Extra change of clothing per person (weather-appropriate)</li>
+          <li>Sturdy waterproof boots per person</li>
+          <li>Rain gear / poncho per person</li>
+        </ul>
+
+        <h3 style="margin-top:1.25rem">Communications &amp; Navigation</h3>
+        <ul class="kit-items level2">
+          <li>Battery-powered or hand-crank weather radio</li>
+          <li>Local area maps (paper — don't rely on phone GPS)</li>
+          <li>Compass</li>
+          <li>Two-way radios (walkie-talkies) — useful when cell networks are overloaded</li>
+        </ul>
+
+        <h3 style="margin-top:1.25rem">Food Preparation</h3>
+        <ul class="kit-items level2">
+          <li>Portable camp stove + fuel canisters</li>
+          <li>Mess kits (plate, bowl, cup, utensils per person)</li>
+          <li>Collapsible water containers (for collecting and storing water)</li>
+          <li>Expanded food supply beyond 9 meals — aim for 21+ meals per person</li>
+        </ul>
+
+        <h3 style="margin-top:1.25rem">First Aid &amp; Health</h3>
+        <ul class="kit-items level2">
+          <li>First Aid Kit (Level 3 — see <a href="first-aid.html">First Aid Kits guide</a>)</li>
+          <li>Non-prescription medication: pain reliever, antidiarrheal, antacid, antihistamine</li>
+          <li>Soap and personal hygiene supplies (toothbrush, toothpaste, feminine hygiene)</li>
+          <li>Sunscreen and insect repellent</li>
+        </ul>
+
+        <h3 style="margin-top:1.25rem">Pet Supplies</h3>
+        <ul class="kit-items level2">
+          <li>3-day supply of pet food</li>
+          <li>Pet water dish and leash</li>
+          <li>Copy of vaccination records and pet medications</li>
+          <li>Carrier or crate if needed for transport</li>
+        </ul>
+
+        <h3 style="margin-top:1.25rem">Infants &amp; Children</h3>
+        <ul class="kit-items level2">
+          <li>Diapers and wipes (if applicable)</li>
+          <li>Baby formula or food</li>
+          <li>Small toys, books, or familiar items for comfort</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Storage &amp; Packaging Tips</h2>
+        <ul>
+          <li><strong>Use waterproof bags</strong> — store everything in large zip-lock or dry bags inside your kit. Flood and rain can ruin an otherwise perfect kit.</li>
+          <li><strong>Label everything</strong> — especially medications, which should have dosage instructions readable by a non-medical person.</li>
+          <li><strong>Keep it accessible</strong> — not buried in a closet or under the stairs. The kit should be reachable in the dark.</li>
+          <li><strong>Customize per person</strong> — if family members have unique medical needs (EpiPen, insulin, asthma inhaler), maintain a dedicated bag for their supplies.</li>
+          <li><strong>Test it</strong> — once a year, simulate using your kit for a weekend. You'll quickly discover what's missing.</li>
+        </ul>
+      </section>
+
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="footer-nav">
+        <a href="../food/">Food</a>
+        <a href="../finances/">Finances</a>
+        <a href="../emergencies/">Emergencies</a>
+      </div>
+      <p class="footer-bottom">Ready at Home — Building family security, one step at a time.</p>
+    </div>
+  </footer>
+
+  <script src="../assets/js/main.js"></script>
+</body>
+</html>
