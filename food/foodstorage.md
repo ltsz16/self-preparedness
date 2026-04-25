@@ -4,14 +4,6 @@
 *   [Three-Month Supply](#FoodStorage-Three-MonthSupply)
 *   [Annual Supply](#FoodStorage-AnnualSupply)
     *   [Level 1](#FoodStorage-Level1)
-        *   [Specific family requirements](#FoodStorage-Specificfamilyrequirements)
-            *   [James & Priscilla Todd](#FoodStorage-James&PriscillaTodd)
-            *   [Luke & Susan Todd](#FoodStorage-Luke&SusanTodd)
-            *   [Catherine Smith](#FoodStorage-CatherineSmith)
-            *   [Matt & Mary Grey](#FoodStorage-Matt&MaryGrey)
-            *   [David & Cassi Todd](#FoodStorage-David&CassiTodd)
-            *   [Mark & Kenya Todd](#FoodStorage-Mark&KenyaTodd)
-            *   [Jonathan & Liz. Todd](#FoodStorage-Jonathan&Liz.Todd)
     *   [Level II](#FoodStorage-LevelII)
         *   [General List](#FoodStorage-GeneralList)
             *   [Annual list](#FoodStorage-Annuallist)
@@ -33,7 +25,7 @@
 Levels of Food Storage
 ======================
 
-There are three levels of food storage:
+There are five levels of food storage:
 
 *   First Level: A year supply of wheat
     
@@ -64,70 +56,6 @@ List of food [requirements](https://www.churchofjesuschrist.org/study/ensign/200
 **Children requirments**
 
 <table data-layout="default" class="confluenceTable"><colgroup><col style="width: 340.0px;"><col style="width: 340.0px;"></colgroup><tbody><tr><th class="confluenceTh"><p><strong>Age</strong></p></th><th class="confluenceTh"><p><strong>Percentage of Adult Portion</strong></p></th></tr><tr><td class="confluenceTd"><p>3 and under</p></td><td class="confluenceTd"><p>50%</p></td></tr><tr><td class="confluenceTd"><p>4 to 6</p></td><td class="confluenceTd"><p>70%</p></td></tr><tr><td class="confluenceTd"><p>7 to 10</p></td><td class="confluenceTd"><p>90%</p></td></tr><tr><td class="confluenceTd"><p>11 and up</p></td><td class="confluenceTd"><p>100%</p></td></tr></tbody></table>
-
-### Specific family requirements
-
-#### James & Priscilla Todd
-
-Prepared 4/26/2020
-
-Status: Static
-
-<table data-layout="default" class="confluenceTable"><colgroup><col style="width: 340.0px;"><col style="width: 340.0px;"></colgroup><tbody><tr><th class="confluenceTh"><p><strong>Item</strong></p></th><th class="confluenceTh"><p><strong>Quanity</strong></p></th></tr><tr><td class="confluenceTd"><p>Grains</p></td><td class="confluenceTd"><p>600#</p></td></tr><tr><td class="confluenceTd"><p>Legumes</p></td><td class="confluenceTd"><p>120#</p></td></tr><tr><td class="confluenceTd"><p>Powdered Milk</p></td><td class="confluenceTd"><p>32#</p></td></tr><tr><td class="confluenceTd"><p>Cooking oil</p></td><td class="confluenceTd"><p>5 gallons</p></td></tr><tr><td class="confluenceTd"><p>Sweetener</p></td><td class="confluenceTd"><p>120#</p></td></tr><tr><td class="confluenceTd"><p>Salt</p></td><td class="confluenceTd"><p>16#</p></td></tr></tbody></table>
-
-#### Luke & Susan Todd
-
-Prepared 4/26/2020
-
-Status: Dynamic
-
-Notes: 1 @ 70%, 2 @ 90%, 5 @ 100%
-
-<table data-layout="default" class="confluenceTable"><colgroup><col style="width: 340.0px;"><col style="width: 340.0px;"></colgroup><tbody><tr><th class="confluenceTh"><p><strong>Item</strong></p></th><th class="confluenceTh"><p><strong>Quanity</strong></p></th></tr><tr><td class="confluenceTd"><p>Grains</p></td><td class="confluenceTd"><p>2,250#</p></td></tr><tr><td class="confluenceTd"><p>Legumes</p></td><td class="confluenceTd"><p>450#</p></td></tr><tr><td class="confluenceTd"><p>Powdered Milk</p></td><td class="confluenceTd"><p>120#</p></td></tr><tr><td class="confluenceTd"><p>Cooking oil</p></td><td class="confluenceTd"><p>75 quarts (or 18.75 gallons)</p></td></tr><tr><td class="confluenceTd"><p>Sweetener</p></td><td class="confluenceTd"><p>450#</p></td></tr><tr><td class="confluenceTd"><p>Salt</p></td><td class="confluenceTd"><p>60#</p></td></tr></tbody></table>
-
-#### Catherine Smith
-
-Prepared 4/26/2020
-
-Status: Dynamic
-
-Notes: 4 @ 100%
-
-<table data-layout="default" class="confluenceTable"><colgroup><col style="width: 340.0px;"><col style="width: 340.0px;"></colgroup><tbody><tr><th class="confluenceTh"><p><strong>Item</strong></p></th><th class="confluenceTh"><p><strong>Quanity</strong></p></th></tr><tr><td class="confluenceTd"><p>Grains</p></td><td class="confluenceTd"><p>1,200#</p></td></tr><tr><td class="confluenceTd"><p>Legumes</p></td><td class="confluenceTd"><p>240#</p></td></tr><tr><td class="confluenceTd"><p>Powdered Milk</p></td><td class="confluenceTd"><p>64#</p></td></tr><tr><td class="confluenceTd"><p>Cooking oil</p></td><td class="confluenceTd"><p>10 gallons</p></td></tr><tr><td class="confluenceTd"><p>Sweetener</p></td><td class="confluenceTd"><p>240#</p></td></tr><tr><td class="confluenceTd"><p>Salt</p></td><td class="confluenceTd"><p>32#</p></td></tr></tbody></table>
-
-#### Matt & Mary Grey
-
-Prepared 4/26/2020
-
-Status: Dynamic
-
-Notes: 4 @ 100%
-
-#### David & Cassi Todd
-
-Prepared 4/26/2020
-
-Status: Dynamic
-
-Notes: 4 @ 100%
-
-#### Mark & Kenya Todd
-
-Prepared 4/26/2020
-
-Status: Static
-
-Notes: 2 @ 100%
-
-<table data-layout="default" class="confluenceTable"><colgroup><col style="width: 340.0px;"><col style="width: 340.0px;"></colgroup><tbody><tr><th class="confluenceTh"><p><strong>Item</strong></p></th><th class="confluenceTh"><p><strong>Quanity</strong></p></th></tr><tr><td class="confluenceTd"><p>Grains</p></td><td class="confluenceTd"><p>2,250#</p></td></tr><tr><td class="confluenceTd"><p>Legumes</p></td><td class="confluenceTd"><p>450#</p></td></tr><tr><td class="confluenceTd"><p>Powdered Milk</p></td><td class="confluenceTd"><p>120#</p></td></tr><tr><td class="confluenceTd"><p>Cooking oil</p></td><td class="confluenceTd"><p>75 quarts (or 18.75 gallons)</p></td></tr><tr><td class="confluenceTd"><p>Sweetener</p></td><td class="confluenceTd"><p>450#</p></td></tr><tr><td class="confluenceTd"><p>Salt</p></td><td class="confluenceTd"><p>60#</p></td></tr></tbody></table>
-
-#### Jonathan & Liz. Todd
-
-Prepared 4/26/2020
-
-Status: Dynamic
-
-Notes: 2 @ 100%
 
 Level II
 --------
